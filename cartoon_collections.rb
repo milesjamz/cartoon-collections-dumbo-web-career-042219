@@ -8,7 +8,7 @@ end
 
 def long_planeteer_calls(words)
   # Your code here
-  
+  words.any? do |word|
 end
 
 def find_the_cheese(foods)
